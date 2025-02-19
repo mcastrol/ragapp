@@ -1,3 +1,5 @@
-app/notebooks/.env
+**.env**
 **qdrant_storage**
 **app**
+**data**
+simplerag/.env
