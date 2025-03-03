@@ -8,3 +8,4 @@ unstructured[pdf]
 sentence-transformers
 langchain_huggingface
 langchain-text-splitters
+qdrant-client
